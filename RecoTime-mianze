@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>RecoTime复能 — 免责声明</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", sans-serif; line-height:1.6; color:#111; padding:24px; background:#f9f9fb; }
+    .container { max-width:900px; margin:0 auto; background:#fff; padding:28px; border-radius:10px; box-shadow:0 6px 20px rgba(20,20,40,0.06); }
+    h1 { margin-top:0; font-size:1.6rem; }
+    h2 { font-size:1.05rem; margin-bottom:8px; }
+    p { margin:8px 0; }
+    ul { margin:8px 0 16px 20px; }
+    .muted { color:#555; font-size:0.95rem; }
+    footer { font-size:0.85rem; color:#666; margin-top:18px; }
+    .highlight { font-weight:600; color:#c00; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>免责声明</h1>
+    <p class="muted">最后更新：<span class="highlight">2025-09-11</span></p>
+
+    <h2>一、适用范围</h2>
+    <p>本免责声明适用于由 <span class="highlight">RecoTime复能应用程序开发者、拥有者。</span>（以下简称“我们”或“本公司”）开发并发布的应用程序 <span class="highlight">RecoTime复能</span>（以下简称“本应用”）。使用本应用即表示您已阅读、理解并接受本免责声明的全部内容。</p>
+
+    <h2>二、功能与用途说明</h2>
+    <p>本应用提供基于用户输入、设备传感器数据和算法模型的“运动后恢复时间估算”功能（以下简称“估算结果”）。</p>
+    <p class="highlight">特别提示：估算结果仅供一般参考，不具备任何医疗诊断、治疗或医疗建议功能，不能替代专业医生的意见。在出现持续或严重身体不适、疼痛、受伤或其他健康问题时，应立即停止运动并咨询合格的医疗专业人员。</p>
+
+    <h2>三、非医疗或专业建议声明</h2>
+    <p>本应用不是医疗器械，也不是医生或其他医疗专业人员的替代。用户不得将估算结果作为任何医疗行为的依据。</p>
+
+    <h2>四、估算的局限性</h2>
+    <ul>
+      <li>算法结果仅供参考，可能因设备、数据、个人差异等产生误差。</li>
+      <li>个体差异（年龄、性别、健康状况、药物、睡眠、生活习惯等）会影响实际恢复时间。</li>
+      <li>我们不保证估算结果的准确性、完整性或适用性。</li>
+    </ul>
+
+    <h2>五、责任限制</h2>
+    <p>在适用法律允许范围内，我们及关联方不对因使用本应用或估算结果产生的任何直接、间接、偶然、后果性或惩罚性损失承担责任，包括健康损害、收入损失或其他损失。</p>
+
+    <h2>六、适用法律与争议解决</h2>
+    <p>本免责声明解释与适用原则上受 <span class="highlight">中国法律</span> 管辖，但在用户所在地法律有强制性规定的，应同时适用用户所在地法律。</p>
+    <p>因本免责声明或使用本应用产生的争议，应首先友好协商；协商不成的，可提交至 <span class="highlight">北京市有管辖权的法院</span> 处理。</p>
+
+    <h2>七、变更与更新</h2>
+    <p>我们保留随时修改本免责声明的权利，并将在应用内或官方网站发布最新版本。</p>
+
+    <h2>八、联系方式</h2>
+    <p class="muted">
+      邮箱：<span class="highlight">recotime@lesoo.top</span><br />
+    </p>
+
+    <h2>九、中国用户特别声明（PIPL）</h2>
+    <p>针对中国大陆用户，本应用收集和使用个人信息遵守《中华人民共和国个人信息保护法》（PIPL）。</p>
+    <ul>
+      <li>所有用户数据仅用于应用功能，<span class="highlight">不用于医疗诊断或治疗</span>。</li>
+      <li>用户享有访问、更正、删除个人信息的权利，可通过 <span class="highlight">recotime@lesoo.top</span> 联系我们。</li>
+      <li>儿童个人信息：未满16周岁的儿童应在监护人指导下使用，本应用不主动收集儿童个人信息。</li>
+      <li>跨境传输：如需将中国用户数据传输至境外服务器，我们会采取安全措施，并遵守法律要求。</li>
+    </ul>
+
+    <footer>声明：本文件为风险提示和免责声明范本，建议由法律顾问进行审阅后使用。</footer>
+  </div>
+</body>
+</html>
